@@ -1,0 +1,5 @@
+gunicorn
+Flask==3.0.3
+line-bot-sdk==3.17.1
+beautifulsoup4
+requests
